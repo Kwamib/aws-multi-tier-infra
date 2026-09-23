@@ -68,8 +68,8 @@ Internet → ALB SG (80, 443)
 
 ```bash
 # Clone the repository
-git clone https://github.com/Kwamib/clixx-iac.git
-cd clixx-iac
+git clone https://github.com/Kwamib/aws-multi-tier-infra.git
+cd aws-multi-tier-infra
 
 # Create your variable file from the example
 cp terraform.tfvars.example terraform.tfvars
